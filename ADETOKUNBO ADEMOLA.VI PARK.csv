@@ -1,0 +1,51 @@
+﻿names,company /Bus Names,Registration num,Slots,time -1n,cost/hour,ages,revenue/month in millions,cost for staffs/month/k,profit/permonth,month year 2000/2002,no of staffs,no of hrs mon-fri ,no of hr/per,Gender
+tola,S&C CON,07BI6634,30,8.00am,N200,30,1.8,650,1.25,jan,8,10,8,F
+tolu,Dell,68RS2900,30,9.00am,N200,20,1.9,650,1.35,feb,8,10,8,F
+nife,CrestHospital,49VY5553,30,10.30am,N200,22,2,650,1.35,march,8,10,7,M
+nife,SunBeach,67ZJ6988,30,8.00am,N200,45,2.1,650,1.45,april,8,10,9,M
+tire,ManINSU,20AND527,30,9.00am,N200,35,1,650,0.35,may ,8,10,5,F
+tire,Estaport SCH,38KP1614,30,9.00am,N200,68,1.1,650,0.45,june,8,10,8,F
+chibum,Cares HM,25PHC79,30,8.30am,N200,50,1.3,650,0.65,july,8,10,5,M
+chibuzor,H&M,11PCB48,30,12.00pm,N200,42,2.6,650,1.9,august,8,10,6,M
+chidimn,AmalaRestaurant,38JZP670,30,9.00am,N200,45,1.6,650,0.95,sept,8,10,7,F
+tola,H&M,30 DN550,30,9.00am,N200,55,1.5,650,0.85,oct,8,10,6,M
+flora,ZenithBK,19GU754,30,9.00am,N200,25,1.2,650,0.55,nov,8,10,8,F
+funke,GTCO,47EH5357,30,10.30am,N200,28,1.3,650,0.65,dec,8,10,8,M
+toyin,Stanbic,32OSM95,30,10.30am,N200,40,1.6,650,0.95,jan,8,10,8,M
+sinmi,Sterling,68S0567,30,10.00am,N200,39,1.4,650,0.75,feb,8,10,8,F
+titi,StayHome,27GV7040,30,11.00am,N200,66,1.2,650,0.55,march,8,10,8,M
+tope,QuestCar,81ELH97,30,10.00am,N200,60,1.1,650,0.45,april,8,10,8,F
+zaki,MrytlSCH,12GPM26,30,10.00am,N200,56,1.5,650,0.75,may ,8,10,8,M
+chidinma,RediHosp,25KOH151,30,10.30am,N200,55,1.9,650,1.2,june,8,10,8,M
+femi,MiniMart,10ST552,30,10.00am,N200,70,1.4,650,0.75,july,8,10,8,M
+dayo,d'prince,70KOM40,30,8.00am,N200,35,1.5,650,0.85,august,8,10,8,F
+dolapo,HapiHosp,26I92829,30,8.30am,N200,37,1.8,650,1.15,sept,8,10,8,F
+mabel,JoysResta,46HF020,30,10.00am,N200,42,1.9,650,1.35,oct,8,10,8,M
+maureen,UnionBNK,53GG019,30,10.00am,N200,45,1.4,650,0.75,nov,8,10,8,F
+moji,Uniben,77D64420,30,10.30am,N200,67,1.5,650,0.85,dec,8,10,8,F
+maheed,Mansard,44CFM07,30,10.00am,N200,55,1.3,650,0.75,jan,8,10,8,F
+fedrick,Nddc,23S02990,30,9.00am,N200,45,1.2,650,0.55,feb,8,10,8,F
+john,Nscdc,02ER4689,30,9.00am,N200,40,1.4,650,0.75,march,8,10,8,M
+peter,WHO,63HN0491,30,9.30am,N200,42,1.2,650,0.55,april,8,10,8,F
+joseph,Univelcity,18FO8776,30,10.00am,N200,37,1.1,650,0.45,may ,8,10,8,M
+judith,partyCOM,02JIA68,30,10.30am,N200,39,1,650,0.35,june,8,10,8,F
+emeka,Stable creche,24EM2968,30,11.00am,N200,49,1.5,650,0.85,july,8,10,8,F
+johnson,Wobel Hospital,71P23305,30,10.00am,N200,50,1.6,650,0.95,august,8,10,5,M
+tola,Arab contractors,65VO5798,30,12.00pm,N200,55,1.3,650,0.65,sept,8,10,5,M
+femi,Stanbic ibtc,40F8320,30,11.00am,N200,51,1.1,650,0.45,oct,8,10,5,F
+jude,Stanbic,81LFR274,30,8.00am,N200,52,1,650,0.35,nov,8,10,5,M
+andrew,Olas chambers,42AT8605,30,8.30am,N200,55,1.7,650,1.05,dec,8,10,5,M
+han,Stanbic,31N4136,30,8.00am,N200,23,1.6,650,0.95,jan,8,10,5,F
+luggard,Ade and Tob's chambers,11RAP053,30,10.00am,N200,45,1.8,650,1.15,feb,8,10,5,F
+white,Stanbic,33Z31570,30,10.00am,N200,36,1.9,650,1.35,march,8,10,5,F
+smith,Stanbic,35RCE43,30,10.30am,N200,67,1.4,650,0.75,april,8,10,5,M
+josy,Myrtle School,61PN287,30,9.00am,N200,35,1.2,650,0.55,may ,8,10,5,M
+hapha,Univelcity,23SE956,30,9.30am,N200,23,1.1,650,0.45,june,8,10,5,M
+ismali,Univelcity,37V3002,30,10.00am,N200,28,1.5,650,0.85,july,8,10,5,M
+tope,Univelcity,76V56810,30,8.00am,N200,34,1,650,0.35,august,8,10,5,M
+tochi,Univelcity,78L7421,30,8.00am,N200,38,1.5,650,0.85,sept,8,10,5,F
+mark,Math care schools,42R42740,30,8.00am,N200,35,1.7,650,1.05,oct,8,10,7,M
+mathew,Univelcity,29Y27460,30,9.00am,N200,47,1.2,650,0.55,nov,8,10,6,F
+valerie,The place,07I0674,30,9.00am,N200,60,1.3,650,0.65,dec,8,10,5,F
+wunmi,Univelcity,28PHR67,30,9.30am,N200,70,1.65,650,1,jan,8,10,4,F
+Rashida,rash car wash,345UYTt46,30,10.00am,N200,55,1.44,650,0.89,feb,8,10,6,F
